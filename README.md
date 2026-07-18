@@ -339,13 +339,13 @@ The answer to that question will likely define the next generation of secure AI 
 6. Qwen Team, Alibaba (2026). *Qwen3.5 model release and license.* Apache License 2.0. https://huggingface.co/Qwen/Qwen3.5-397B-A17B
 7. DeepSeek-AI (2026). *DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence.* MIT License. https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash
 8. MiniMax (2026). *MiniMax-M3 Technical Report.* arXiv:2606.13392. MiniMax Community License. https://huggingface.co/MiniMaxAI/MiniMax-M3
-9. Zhipu AI / Z.ai (2026). *GLM-5.2 model release.* MIT License. https://huggingface.co/zai-org/GLM-5.2
-10. Kim, et al. (2025). *GPUHammer: Rowhammer Attacks on GPU Memories are Practical.* arXiv:2507.08166. https://arxiv.org/abs/2507.08166
-11. (2026). *GPUBreach: Privilege Escalation Attacks on GPUs using Rowhammer.* arXiv:2605.03812. https://arxiv.org/abs/2605.03812
+9. GLM-5 Team, Zhipu AI / Z.ai (2026). *GLM-5: From Vibe Coding to Agentic Engineering* (GLM-5.2 release). arXiv:2602.15763. MIT License. https://huggingface.co/zai-org/GLM-5.2
+10. Lin, C. S., Qu, J., & Saileshwar, G. (2025). *GPUHammer: Rowhammer Attacks on GPU Memories are Practical.* arXiv:2507.08166. https://arxiv.org/abs/2507.08166
+11. Lin, C. S., Yan, Y., Ding, G., Qu, J., Zhu, J., Lie, D., & Saileshwar, G. (2026). *GPUBreach: Privilege Escalation Attacks on GPUs using Rowhammer.* arXiv:2605.03812 (to appear, IEEE S&P 2026). https://arxiv.org/abs/2605.03812
 12. Survey (2024). *Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions.* arXiv:2408.11601. ACM Computing Surveys. https://arxiv.org/abs/2408.11601
 13. CycloneDX (OWASP) and SPDX (Linux Foundation) — Software and Machine Learning Bill of Materials standards. https://cyclonedx.org/ ; https://spdx.dev/
-14. (2026). *Quantization as a Malicious Task: Removing Quantization-Conditioned Backdoors via Task Arithmetic.* arXiv:2606.20254. https://arxiv.org/abs/2606.20254
-15. (2025). *Quantization Blindspots: How Model Compression Breaks Backdoor Defenses.* arXiv:2512.06243. https://arxiv.org/abs/2512.06243
+14. Yang, K., Tsai, M.-Y., & Yu, C.-M. (2026). *Quantization as a Malicious Task: Removing Quantization-Conditioned Backdoors via Task Arithmetic.* arXiv:2606.20254. https://arxiv.org/abs/2606.20254
+15. Pandey, R., & Ye, E. (2025). *Quantization Blindspots: How Model Compression Breaks Backdoor Defenses.* arXiv:2512.06243. https://arxiv.org/abs/2512.06243
 
 ---
 
