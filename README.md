@@ -7,7 +7,7 @@
 **Last Updated:** July 18, 2026
 **License:** © 2026 Barış Özpulat. This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you may share and adapt it with attribution.
 
-> *Archiving note:* a permanent DOI for this version can be minted through Zenodo before publication, so that later revisions (v1.1, v2.0, …) remain separately citable.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21430999.svg)](https://doi.org/10.5281/zenodo.21430999)
 
 ---
 
